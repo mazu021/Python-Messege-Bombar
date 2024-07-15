@@ -5,3 +5,7 @@ Features
 Send 1000+ messages in a single execution
 Easy to configure and use
 Lightweight and efficient
+
+Requirements
+Python 3.x
+pyautogui Library
